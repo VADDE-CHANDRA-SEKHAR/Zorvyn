@@ -2,7 +2,7 @@
 
 > A clean, interactive personal finance dashboard for tracking income, expenses, and spending patterns — built with React 18 and Vite.
 
-**Live Demo →** [https://zorvyn.vercel.app](https://zorvyn.vercel.app)
+**Live Demo →** [https://zorvyn-plum-one.vercel.app](https://zorvyn-plum-one.vercel.app)
 
 ---
 
